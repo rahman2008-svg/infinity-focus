@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Infinity Focus</string>
+    <string name="accessibility_service_desc">Accessibility Service is used by Infinity Focus to identify when blocked apps are launched during Focus Mode or daily limit periods, and automatically return to the home screen to keep you focused.</string>
+</resources>
